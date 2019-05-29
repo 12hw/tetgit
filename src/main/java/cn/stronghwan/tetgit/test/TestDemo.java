@@ -9,5 +9,6 @@ package cn.stronghwan.tetgit.test;
 public class TestDemo {
     public static void main(String[] args) {
         System.out.println("test merge");
+        System.out.println("再次测试");
     }
 }
